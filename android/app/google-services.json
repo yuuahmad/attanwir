@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419477297939",
+    "project_id": "attanwir-itera",
+    "storage_bucket": "attanwir-itera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419477297939:android:ed819cd54a1298249a18e6",
+        "android_client_info": {
+          "package_name": "com.example.attanwir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419477297939-33hpqcenj8o5r06luha2o11angbuq82q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attanwir",
+            "certificate_hash": "87c7c7bceb2b9d4966abd46c86aad564d94c6071"
+          }
+        },
+        {
+          "client_id": "419477297939-rdjijhldq3qt3ujnh8dkefmk1lknbk8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attanwir",
+            "certificate_hash": "500b942fb54a1a52e67fd846805cf482ae4be231"
+          }
+        },
+        {
+          "client_id": "419477297939-cb41fm2l6au89i8hjer2nda9do1brhdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBG5wwbieYLhp9FR4CVKpdELFdEon5D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419477297939-cb41fm2l6au89i8hjer2nda9do1brhdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
